@@ -1,8 +1,9 @@
 ## Hi there 👋
-My name is Abed Fetrat, I'm a Frontend Web Developer. <br />
-Currently I'm learning Computer Science topics such as Data Structures and Algorithms. <br />
-I'm also advancing my React skills by building projects. <br />
-Checkout my pinned repositorires below for some of my projects. 
+My name is Abed Fetrat. <br />
+Currently I'm enrolled in a Fullstack Devlopment Bootcamp at SALT Stockholm. <br />
+The Bootcamp focuses on Javascript and React for the frontend and C# and .NET for the backend. <br />
+Previously I've been learning Frontend Development with Javascript and React.
+Feel free to explore some of my projects that I have pinned bellow. 
 
 ### Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abedfetrat/)
