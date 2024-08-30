@@ -1,8 +1,9 @@
 ## Hi there 👋
-My name is Abed Fetrat. <br />
+Welcome to my profile!  <br />
+I'm Abed Fetrat. <br />  <br />
 Currently I'm enrolled in a Fullstack Devlopment Bootcamp at SALT Stockholm. <br />
-The Bootcamp focuses on Javascript and React for the frontend and C# and .NET for the backend. <br />
-Previously I've been learning Frontend Development with Javascript and React.
+The Bootcamp focuses on Javascript and React for the frontend and C# and .NET for the backend. <br />  <br />
+Previously I've been learning Frontend Development with Javascript and React.  <br />
 Feel free to explore some of my projects that I have pinned bellow. 
 
 ### Connect
